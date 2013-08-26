@@ -1,1 +1,0 @@
-Simple .NET dependency injection library.
