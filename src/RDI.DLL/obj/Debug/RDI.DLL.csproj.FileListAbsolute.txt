@@ -1,0 +1,4 @@
+D:\Git\RDI\src\RDI.DLL\bin\Debug\RDI.dll
+D:\Git\RDI\src\RDI.DLL\bin\Debug\RDI.pdb
+D:\Git\RDI\src\RDI.DLL\obj\Debug\RDI.dll
+D:\Git\RDI\src\RDI.DLL\obj\Debug\RDI.pdb

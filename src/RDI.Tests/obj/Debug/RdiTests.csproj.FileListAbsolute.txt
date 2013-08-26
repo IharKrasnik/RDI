@@ -1,0 +1,10 @@
+D:\WORK\RDI\RDI\RdiTests\bin\Debug\RdiTests.dll
+D:\WORK\RDI\RDI\RdiTests\bin\Debug\RdiTests.pdb
+D:\WORK\RDI\RDI\RdiTests\bin\Debug\RDI.dll
+D:\WORK\RDI\RDI\RdiTests\bin\Debug\RDI.pdb
+D:\WORK\RDI\RDI\RdiTests\obj\Debug\RdiTests.csprojResolveAssemblyReference.cache
+D:\WORK\RDI\RDI\RdiTests\obj\Debug\RdiTests.dll
+D:\WORK\RDI\RDI\RdiTests\obj\Debug\RdiTests.pdb
+D:\Git\RDI\src\Rdi.Tests\obj\Debug\RdiTests.csprojResolveAssemblyReference.cache
+D:\Git\RDI\src\Rdi.Tests\obj\Debug\RdiTests.dll
+D:\Git\RDI\src\Rdi.Tests\obj\Debug\RdiTests.pdb
