@@ -22,7 +22,7 @@ Examples:
 - Simple usage
 <pre>
   var rdiContainer = new RDI.Concrete.Containers.RdiContainer();
-  rdiContainer.Resolve<IBase>().With<Base>();
+  rdiContainer.Resolve <text><IBase></text>().With<Base>();
   
   var resolved = rdiContainer.Get<IBase>(); // resolved.GetType() == Base
   
