@@ -11,8 +11,8 @@ namespace RDI.Concrete.Containers
 {
     public class RdiContainer : IGeneralRdiContainer
     {
-        protected List<IRdiSettingsContainer> settingsContainers = new List<IRdiSettingsContainer>();
-
+        protected List<IRdiSettingsContainer> settings1Containers = new List<IRdiSettingsContainer>();
+    
         public IRdiSettingsContainer Resolve<T>()
         {
             Type interfaceType = typeof(T);
