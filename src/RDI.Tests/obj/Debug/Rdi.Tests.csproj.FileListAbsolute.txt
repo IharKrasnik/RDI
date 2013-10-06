@@ -1,0 +1,7 @@
+D:\Git\RDI\src\Rdi.Tests\obj\Debug\Rdi.Tests.csprojResolveAssemblyReference.cache
+D:\Git\RDI\src\Rdi.Tests\obj\Debug\RdiTests.dll
+D:\Git\RDI\src\Rdi.Tests\obj\Debug\RdiTests.pdb
+D:\Git\RDI\src\Rdi.Tests\bin\Debug\RdiTests.dll
+D:\Git\RDI\src\Rdi.Tests\bin\Debug\RdiTests.pdb
+D:\Git\RDI\src\Rdi.Tests\bin\Debug\RDI.dll
+D:\Git\RDI\src\Rdi.Tests\bin\Debug\RDI.pdb
